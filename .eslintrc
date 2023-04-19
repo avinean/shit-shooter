@@ -1,0 +1,9 @@
+{
+  "parser": "@babel/eslint-parser",
+  "parserOptions": {
+     "parser": "@typescript-eslint/parser",
+      "ecmaVersion": 2020,
+      "sourceType": "module",
+      "requireConfigFile": false
+  }
+}
